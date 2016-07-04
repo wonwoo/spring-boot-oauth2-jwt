@@ -1,0 +1,18 @@
+security:
+  user:
+    name: admin
+    password: test
+
+#  oauth2:
+#    resource:
+#      jwt:
+#        key-value: |
+#            -----BEGIN PUBLIC KEY-----
+#            MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAgdy5rIIFN3gKeBb+pDkR
+#            QabaDo+Rk/bz8NsiAn+OR1OavsEe5SqgbJw+KhpaFubMcfWbC5b4AkLqQh9xzIRE
+#            cRAKlDhOPoaoTaFeq2ocpCjOipq7s6UuVAqmx7WOj5PbcasyG6rMeTEr0rZrwFSw
+#            S6NQCoTM0n5rpxXL9S2qTTIUUYY1fjJ/y1Hocmpg9opIvU8xc0YXnoHoucmogpOE
+#            4dcwIfXMSwXPkiFAcZnApcXjH4VBYsrhho+acqZDUSzCr8OttzHifHCj2+tFnKYI
+#            ggddxP7tmwlkU7gPEmO9okXfg5mzlnif6FUepmRTsT1CrcBqGhic6TZCOEVcZGS+
+#            QQIDAQAB
+#            -----END PUBLIC KEY-----
